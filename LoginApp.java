@@ -13,9 +13,9 @@ public class LoginApp {
     public static void main(String[] args) {
 
         String[][] users = {
-            {"scientist", "password1"},
-            {"engineer", "password2"},
-            {"security", "password3"}
+            {"scientist", "Password1"},
+            {"engineer", "Password2"},
+            {"security", "Password3"}
         };
 
         int[] mfaCodes = {
